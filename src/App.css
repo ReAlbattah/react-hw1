@@ -1,0 +1,23 @@
+body {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  /* flex-direction: column;
+  flex-wrap: wrap; */
+  background-color: beige;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+  text-align: center;
+}
+img{
+width: auto;
+height: 250px;
+}
+
+.container{
+  display: inline-flex;
+  
+}
